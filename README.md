@@ -1,4 +1,4 @@
-## Hi! I'm Kali 👋
+## Hi, I'm Kali! 👋
 - 🔭 I’m currently working on ... My Senior Project, a habit and chore gamification app with the working title "Inner Hero.
 - 🌱 I’m currently learning ... Machine Learning and Flutter.
 - 👯 I’m looking to collaborate on ... Nothing specific at the moment, I'm trying to finish school before taking on another big project.
